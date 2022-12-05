@@ -1,0 +1,37 @@
+
+Local => Apache Beam => Local (DONE) 
+inside terminal => check python version 
+2. check pip version and upgrade pip 
+3. pip install apache-beam 
+4. pip install apache-beam[gcp] 
+
+
+Local => Apache Beam => Cloud Storage 
+Now running to the cloud is a little different and we have to import some files and libraries 
+
+
+database => cloud storage => cloud dataflow => cloud storage or bigquery 
+
+SETTING UP CLOUD STORAGE IN GCP 
+1. CREATE A NEW PROJECT 
+2. CREATE A SERVICE ACCOUNT AND BUCKET IN GCP 
+3. SERVICE ACCOUNT => API & SERVICES -> CREDENTIALS 
+SERVICE ACCOUNT => ENABLES SERVER TO SERVER APP LEVEL AUTHENTICATIONS 
+FOR OUTSIDE SERVICES TO BE INTERACTING WITH WHEN HITTING API 
+SERVICE ACCOUNT : dataflow-rnd 
+description: .... 
+4. GRANT ROLE => BASIC ROLE => OWNER 
+5. RUN AND ACTIVATE SERVICE ACCOUNT 
+6. KEYS => ACTIVATE KEYS 
+7. WHY KEYS => API WILL ASK AD FIND KEY. WHEN TRYING TO RUN SOMETHING IN GCP, API WILL ASK FOR KEYS 
+8. MAKE SURE KEY IS IN JSON 
+
+
+
+NOW TO SETTING UP CLOUD STORAGE IN GCP 
+BUCKET ?? 
+1. NAVIGATE TO CLOUD STORAGE 
+2. CREATE BUCKET => NAME & REGION & STORAGE 
+3. ACCESSING OBJECTS => UNIFORM VS FINE GRAINED 
+UNIFORM ? => RULES APPLIED TO ALL BUCKETS APPLIES TO ALL FOLDERS 
+FINE GRAINED => DIFFERENT ROLES APPLIED TO DIFFERENT BUCKETS AND FOLDERS 

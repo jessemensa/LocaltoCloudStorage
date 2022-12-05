@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dataflow-1-370714",
+  "private_key_id": "39edceda5acdac0dd805bfd56b9eeb3724898be8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkLjwB2QCYL7qJ\ngSZupytWwWsE7EN4n+MSQFdXvGQmDlR4HXEkAnQKpBhNE/WJPQIBc7Ja/iiqpypl\nz/pnT7qe1kacWXg14Yva6+CfaRm/YXA5Vejux1WHxEJ73PdLxb4man17JsIuLcRO\n8qt1sPxyfqOhAh9EjzmW45k5rBly1J6uL7uO8pZSATIMeL7BPKbCBcTTFrx1wcUc\nHvOreijQYoR0pn6UcOiJiIcCPxvXnk5Z38Ko5e9HB5+L8C/F3+emn62GFUpaUmxv\nyNqmaNVe2vIV1LuIwQ7EvnUxMGLQqRQpQH9ib3WOrf5bCJNMMzVV+umWvN12kFpb\njLaxPJlbAgMBAAECggEAOhfoAMldpfwBd8U8qZu6QJTo/tFw4F5G1T7yCOfu0e5x\nIh1c2t6JW/iLZr6gu4JcUtIy8nKLRjMnU+Y/Fs5F3Q055/naiMo5l+mtzgo845Sh\nRpBo/xCGaade1QAvet7J9ULqCqkAvaFRHJROajMJaKP51y9ui+5X9NWs8pS8Xn5f\nWkijazEjhEWwjTgfgzZR+qYI4O6pLpyXNlLgB27aVQRWTsM7hQHes/qwEJ4oO5D0\ncO5Geb/QWCY7UKiEd1dKojfq/3wFPR9ko/b8mlAUG2rgk0vfIFDavS5lHSzz34P+\nIdyla8vv/E2Oc7WfKazI1qcwmvlPRJ9Vl5LWKwFzsQKBgQDQkmn/0JoeSQYTV9HV\nv3LoB7KisagEyl8H6WTtBJgUX1yaSimjWDXT1hZ46H05yCn2Vh9+zfM2Bpyt9PLx\nvLpC9PbukMEGX2qB6M3SK2f5xoDDzpArOaJem6kxC1iY7JIBy0EEVqCNMmSy3pTM\nC4+9cfITmtE5/GB08tdBNkcI0QKBgQDJg6upUg2dB4QT4el0H2+6HRmu/qWLNHiP\nfuMWxYqDA6zZohxvOOz5Zuj3Yi3tlrEIg94It2zoVd3aomlSrl3XD74YCXWebjTQ\ncUrJfzfrB0K0lTDJjsd8ltM2t69LmBtb5Ed0djJ/SLlQrswHgpEgRtDCC4JXY3Bp\n+68IAOfKawKBgEFx77jJZ9Kg7zsaj0kWraOI5tCOFj6KkY8V+Qk2K9IYqiHvq2kJ\nwLobryl5KfH7kM8u7usHDI2jPX6IIcMgiQGBhAoPecHaJr1ko1CTNij11GmcYzhs\n+TnedhRhjwdNE/NkJ56I4A/uBBLsLJxp9ExpeKAWMBiVzF5l5I0dzuRBAoGATduC\nsovSWK5zuF7bnRMcTtM5fiRC/7LJNd/3i2/NYWtFGF0LEWn0HTRGpHYZeqdzRO/2\nFHYSLP4oFnYTrW9TMGmTr6PP/uNjonlzRMDTcQpAGpdd3zI8HwYDGywDHXjqcSmU\n9glI32bQuryedfRbcBYMSDy8Ill4MGqeqL/4znsCgYBhN66q0YU7r6zCAyXyhDhj\ng1jMbBcL1GUJvzvvfMbxzLuRW/hdWJLu0GMBpTQsDT+IYh/l2ntkzHL3VkfRLkwe\nTSmOKiYUgdj/el0Td/0Vu7S02S+3R6kWe/GzO5zi5dcsB1Do6NBplqThML+4ptU9\nJswUeINbd3I4YzrnCLpYNg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dataflow-one-je@dataflow-1-370714.iam.gserviceaccount.com",
+  "client_id": "100594373159342035997",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dataflow-one-je%40dataflow-1-370714.iam.gserviceaccount.com"
+}
